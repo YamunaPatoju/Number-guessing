@@ -1,5 +1,6 @@
 # Number-guessing
 NUMBER GUESSING GAME
+This Python program lets you play a fun game where you have to guess a randomly selected number between 1 and 100. The program provides hints to help you guess the correct number, and it tracks how many attempts it takes for you to guess the right answer.
 
 HOW IT WORKS:
 1.The program generates a random number between 1 and 100.
